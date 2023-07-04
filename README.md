@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @1kevinjoseph
 - 👀 I’m interested in ...javascript
 - 🌱 I’m currently learning ...javascript
-  
-  
+- problems
 
-<!---
-1kevinjoseph/1kevinjoseph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ add elements in an array
+add even numbers betwwen 1 and 100
+detect the largest number in any given array
+
